@@ -1,0 +1,694 @@
+Now performing automatic test...
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     5
+    CW:             32
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 428, Current throughput: 427.999957 (packets/sec), Cumulated throughput: 427.999957 (packets/sec)
+Current packetCount: 869, Current throughput: 440.999956 (packets/sec), Cumulated throughput: 434.499957 (packets/sec)
+Current packetCount: 1314, Current throughput: 444.999956 (packets/sec), Cumulated throughput: 437.999956 (packets/sec)
+Current packetCount: 1755, Current throughput: 440.999956 (packets/sec), Cumulated throughput: 438.749956 (packets/sec)
+Current packetCount: 2180, Current throughput: 424.999958 (packets/sec), Cumulated throughput: 435.999956 (packets/sec)
+Current packetCount: 2603, Current throughput: 422.999958 (packets/sec), Cumulated throughput: 433.833290 (packets/sec)
+Current packetCount: 3038, Current throughput: 434.999957 (packets/sec), Cumulated throughput: 433.999957 (packets/sec)
+Current packetCount: 3484, Current throughput: 445.999955 (packets/sec), Cumulated throughput: 435.499956 (packets/sec)
+Current packetCount: 3895, Current throughput: 410.999959 (packets/sec), Cumulated throughput: 432.777735 (packets/sec)
+Current packetCount: 4340, Current throughput: 444.999956 (packets/sec), Cumulated throughput: 433.999957 (packets/sec)
+Current packetCount: 4769, Current throughput: 428.999957 (packets/sec), Cumulated throughput: 433.545411 (packets/sec)
+Current packetCount: 5205, Current throughput: 435.999956 (packets/sec), Cumulated throughput: 433.749957 (packets/sec)
+Current packetCount: 5663, Current throughput: 457.999954 (packets/sec), Cumulated throughput: 435.615341 (packets/sec)
+Current packetCount: 6091, Current throughput: 427.999957 (packets/sec), Cumulated throughput: 435.071385 (packets/sec)
+Current packetCount: 6565, Current throughput: 473.999953 (packets/sec), Cumulated throughput: 437.666623 (packets/sec)
+Current packetCount: 6950, Current throughput: 384.999962 (packets/sec), Cumulated throughput: 434.374957 (packets/sec)
+Current packetCount: 7393, Current throughput: 442.999956 (packets/sec), Cumulated throughput: 434.882309 (packets/sec)
+Current packetCount: 7804, Current throughput: 410.999959 (packets/sec), Cumulated throughput: 433.555512 (packets/sec)
+Current packetCount: 8252, Current throughput: 447.999955 (packets/sec), Cumulated throughput: 434.315746 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 8681
+Throughput: 434.050000
+Total collisions: 1759
+Total per-station collisions: 4009
+Total transmission attempt: 12691
+Mean packet delay: 13410
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 71122722
+====================
+====================
+Simulation Result:
+    Throughput:                         434.050000
+    Mean Packet Delay:                  13410
+    Transmission Collision Probability: 0.315893
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     5
+    CW:             64
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 460, Current throughput: 459.999954 (packets/sec), Cumulated throughput: 459.999954 (packets/sec)
+Current packetCount: 893, Current throughput: 432.999957 (packets/sec), Cumulated throughput: 446.499955 (packets/sec)
+Current packetCount: 1320, Current throughput: 426.999957 (packets/sec), Cumulated throughput: 439.999956 (packets/sec)
+Current packetCount: 1776, Current throughput: 455.999954 (packets/sec), Cumulated throughput: 443.999956 (packets/sec)
+Current packetCount: 2211, Current throughput: 434.999957 (packets/sec), Cumulated throughput: 442.199956 (packets/sec)
+Current packetCount: 2625, Current throughput: 413.999959 (packets/sec), Cumulated throughput: 437.499956 (packets/sec)
+Current packetCount: 3043, Current throughput: 417.999958 (packets/sec), Cumulated throughput: 434.714242 (packets/sec)
+Current packetCount: 3471, Current throughput: 427.999957 (packets/sec), Cumulated throughput: 433.874957 (packets/sec)
+Current packetCount: 3909, Current throughput: 437.999956 (packets/sec), Cumulated throughput: 434.333290 (packets/sec)
+Current packetCount: 4350, Current throughput: 440.999956 (packets/sec), Cumulated throughput: 434.999957 (packets/sec)
+Current packetCount: 4780, Current throughput: 429.999957 (packets/sec), Cumulated throughput: 434.545411 (packets/sec)
+Current packetCount: 5227, Current throughput: 446.999955 (packets/sec), Cumulated throughput: 435.583290 (packets/sec)
+Current packetCount: 5671, Current throughput: 443.999956 (packets/sec), Cumulated throughput: 436.230726 (packets/sec)
+Current packetCount: 6099, Current throughput: 427.999957 (packets/sec), Cumulated throughput: 435.642814 (packets/sec)
+Current packetCount: 6532, Current throughput: 432.999957 (packets/sec), Cumulated throughput: 435.466623 (packets/sec)
+Current packetCount: 6967, Current throughput: 434.999957 (packets/sec), Cumulated throughput: 435.437456 (packets/sec)
+Current packetCount: 7401, Current throughput: 433.999957 (packets/sec), Cumulated throughput: 435.352898 (packets/sec)
+Current packetCount: 7853, Current throughput: 451.999955 (packets/sec), Cumulated throughput: 436.277734 (packets/sec)
+Current packetCount: 8272, Current throughput: 418.999958 (packets/sec), Cumulated throughput: 435.368378 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 8710
+Throughput: 435.500000
+Total collisions: 1304
+Total per-station collisions: 2805
+Total transmission attempt: 11515
+Mean packet delay: 14284
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 71353624
+====================
+====================
+Simulation Result:
+    Throughput:                         435.500000
+    Mean Packet Delay:                  14284
+    Transmission Collision Probability: 0.243595
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     5
+    CW:             128
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 436, Current throughput: 435.999956 (packets/sec), Cumulated throughput: 435.999956 (packets/sec)
+Current packetCount: 887, Current throughput: 450.999955 (packets/sec), Cumulated throughput: 443.499956 (packets/sec)
+Current packetCount: 1287, Current throughput: 399.999960 (packets/sec), Cumulated throughput: 428.999957 (packets/sec)
+Current packetCount: 1735, Current throughput: 447.999955 (packets/sec), Cumulated throughput: 433.749957 (packets/sec)
+Current packetCount: 2153, Current throughput: 417.999958 (packets/sec), Cumulated throughput: 430.599957 (packets/sec)
+Current packetCount: 2583, Current throughput: 429.999957 (packets/sec), Cumulated throughput: 430.499957 (packets/sec)
+Current packetCount: 3026, Current throughput: 442.999956 (packets/sec), Cumulated throughput: 432.285671 (packets/sec)
+Current packetCount: 3466, Current throughput: 439.999956 (packets/sec), Cumulated throughput: 433.249957 (packets/sec)
+Current packetCount: 3902, Current throughput: 435.999956 (packets/sec), Cumulated throughput: 433.555512 (packets/sec)
+Current packetCount: 4325, Current throughput: 422.999958 (packets/sec), Cumulated throughput: 432.499957 (packets/sec)
+Current packetCount: 4742, Current throughput: 416.999958 (packets/sec), Cumulated throughput: 431.090866 (packets/sec)
+Current packetCount: 5185, Current throughput: 442.999956 (packets/sec), Cumulated throughput: 432.083290 (packets/sec)
+Current packetCount: 5575, Current throughput: 389.999961 (packets/sec), Cumulated throughput: 428.846111 (packets/sec)
+Current packetCount: 6006, Current throughput: 430.999957 (packets/sec), Cumulated throughput: 428.999957 (packets/sec)
+Current packetCount: 6430, Current throughput: 423.999958 (packets/sec), Cumulated throughput: 428.666624 (packets/sec)
+Current packetCount: 6833, Current throughput: 402.999960 (packets/sec), Cumulated throughput: 427.062457 (packets/sec)
+Current packetCount: 7282, Current throughput: 448.999955 (packets/sec), Cumulated throughput: 428.352898 (packets/sec)
+Current packetCount: 7698, Current throughput: 415.999958 (packets/sec), Cumulated throughput: 427.666624 (packets/sec)
+Current packetCount: 8129, Current throughput: 430.999957 (packets/sec), Cumulated throughput: 427.842062 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 8560
+Throughput: 428.000000
+Total collisions: 928
+Total per-station collisions: 1927
+Total transmission attempt: 10487
+Mean packet delay: 15860
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 70124448
+====================
+====================
+Simulation Result:
+    Throughput:                         428.000000
+    Mean Packet Delay:                  15860
+    Transmission Collision Probability: 0.183751
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     10
+    CW:             32
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 749, Current throughput: 748.999925 (packets/sec), Cumulated throughput: 748.999925 (packets/sec)
+Current packetCount: 1533, Current throughput: 783.999922 (packets/sec), Cumulated throughput: 766.499923 (packets/sec)
+Current packetCount: 2282, Current throughput: 748.999925 (packets/sec), Cumulated throughput: 760.666591 (packets/sec)
+Current packetCount: 3043, Current throughput: 760.999924 (packets/sec), Cumulated throughput: 760.749924 (packets/sec)
+Current packetCount: 3812, Current throughput: 768.999923 (packets/sec), Cumulated throughput: 762.399924 (packets/sec)
+Current packetCount: 4564, Current throughput: 751.999925 (packets/sec), Cumulated throughput: 760.666591 (packets/sec)
+Current packetCount: 5335, Current throughput: 770.999923 (packets/sec), Cumulated throughput: 762.142781 (packets/sec)
+Current packetCount: 6115, Current throughput: 779.999922 (packets/sec), Cumulated throughput: 764.374924 (packets/sec)
+Current packetCount: 6893, Current throughput: 777.999922 (packets/sec), Cumulated throughput: 765.888812 (packets/sec)
+Current packetCount: 7644, Current throughput: 750.999925 (packets/sec), Cumulated throughput: 764.399924 (packets/sec)
+Current packetCount: 8422, Current throughput: 777.999922 (packets/sec), Cumulated throughput: 765.636287 (packets/sec)
+Current packetCount: 9187, Current throughput: 764.999924 (packets/sec), Cumulated throughput: 765.583257 (packets/sec)
+Current packetCount: 9942, Current throughput: 754.999925 (packets/sec), Cumulated throughput: 764.769154 (packets/sec)
+Current packetCount: 10700, Current throughput: 757.999924 (packets/sec), Cumulated throughput: 764.285638 (packets/sec)
+Current packetCount: 11464, Current throughput: 763.999924 (packets/sec), Cumulated throughput: 764.266590 (packets/sec)
+Current packetCount: 12226, Current throughput: 761.999924 (packets/sec), Cumulated throughput: 764.124924 (packets/sec)
+Current packetCount: 12991, Current throughput: 764.999924 (packets/sec), Cumulated throughput: 764.176394 (packets/sec)
+Current packetCount: 13765, Current throughput: 773.999923 (packets/sec), Cumulated throughput: 764.722146 (packets/sec)
+Current packetCount: 14562, Current throughput: 796.999920 (packets/sec), Cumulated throughput: 766.420976 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 15325
+Throughput: 766.250000
+Total collisions: 7032
+Total per-station collisions: 20273
+Total transmission attempt: 35599
+Mean packet delay: 23339
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 125557136
+====================
+====================
+Simulation Result:
+    Throughput:                         766.250000
+    Mean Packet Delay:                  23339
+    Transmission Collision Probability: 0.569482
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     10
+    CW:             64
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 760, Current throughput: 759.999924 (packets/sec), Cumulated throughput: 759.999924 (packets/sec)
+Current packetCount: 1522, Current throughput: 761.999924 (packets/sec), Cumulated throughput: 760.999924 (packets/sec)
+Current packetCount: 2289, Current throughput: 766.999923 (packets/sec), Cumulated throughput: 762.999924 (packets/sec)
+Current packetCount: 3049, Current throughput: 759.999924 (packets/sec), Cumulated throughput: 762.249924 (packets/sec)
+Current packetCount: 3817, Current throughput: 767.999923 (packets/sec), Cumulated throughput: 763.399924 (packets/sec)
+Current packetCount: 4577, Current throughput: 759.999924 (packets/sec), Cumulated throughput: 762.833257 (packets/sec)
+Current packetCount: 5347, Current throughput: 769.999923 (packets/sec), Cumulated throughput: 763.857066 (packets/sec)
+Current packetCount: 6091, Current throughput: 743.999926 (packets/sec), Cumulated throughput: 761.374924 (packets/sec)
+Current packetCount: 6846, Current throughput: 754.999925 (packets/sec), Cumulated throughput: 760.666591 (packets/sec)
+Current packetCount: 7597, Current throughput: 750.999925 (packets/sec), Cumulated throughput: 759.699924 (packets/sec)
+Current packetCount: 8354, Current throughput: 756.999924 (packets/sec), Cumulated throughput: 759.454470 (packets/sec)
+Current packetCount: 9109, Current throughput: 754.999925 (packets/sec), Cumulated throughput: 759.083257 (packets/sec)
+Current packetCount: 9879, Current throughput: 769.999923 (packets/sec), Cumulated throughput: 759.923001 (packets/sec)
+Current packetCount: 10641, Current throughput: 761.999924 (packets/sec), Cumulated throughput: 760.071353 (packets/sec)
+Current packetCount: 11400, Current throughput: 758.999924 (packets/sec), Cumulated throughput: 759.999924 (packets/sec)
+Current packetCount: 12155, Current throughput: 754.999925 (packets/sec), Cumulated throughput: 759.687424 (packets/sec)
+Current packetCount: 12914, Current throughput: 758.999924 (packets/sec), Cumulated throughput: 759.646983 (packets/sec)
+Current packetCount: 13655, Current throughput: 740.999926 (packets/sec), Cumulated throughput: 758.611035 (packets/sec)
+Current packetCount: 14413, Current throughput: 757.999924 (packets/sec), Cumulated throughput: 758.578872 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 15188
+Throughput: 759.400000
+Total collisions: 5378
+Total per-station collisions: 13542
+Total transmission attempt: 28731
+Mean packet delay: 25308
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 124430401
+====================
+====================
+Simulation Result:
+    Throughput:                         759.400000
+    Mean Packet Delay:                  25308
+    Transmission Collision Probability: 0.471338
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     10
+    CW:             128
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 755, Current throughput: 754.999925 (packets/sec), Cumulated throughput: 754.999925 (packets/sec)
+Current packetCount: 1496, Current throughput: 740.999926 (packets/sec), Cumulated throughput: 747.999925 (packets/sec)
+Current packetCount: 2216, Current throughput: 719.999928 (packets/sec), Cumulated throughput: 738.666593 (packets/sec)
+Current packetCount: 2965, Current throughput: 748.999925 (packets/sec), Cumulated throughput: 741.249926 (packets/sec)
+Current packetCount: 3712, Current throughput: 746.999925 (packets/sec), Cumulated throughput: 742.399926 (packets/sec)
+Current packetCount: 4445, Current throughput: 732.999927 (packets/sec), Cumulated throughput: 740.833259 (packets/sec)
+Current packetCount: 5198, Current throughput: 752.999925 (packets/sec), Cumulated throughput: 742.571354 (packets/sec)
+Current packetCount: 5935, Current throughput: 736.999926 (packets/sec), Cumulated throughput: 741.874926 (packets/sec)
+Current packetCount: 6662, Current throughput: 726.999927 (packets/sec), Cumulated throughput: 740.222148 (packets/sec)
+Current packetCount: 7413, Current throughput: 750.999925 (packets/sec), Cumulated throughput: 741.299926 (packets/sec)
+Current packetCount: 8168, Current throughput: 754.999925 (packets/sec), Cumulated throughput: 742.545380 (packets/sec)
+Current packetCount: 8918, Current throughput: 749.999925 (packets/sec), Cumulated throughput: 743.166592 (packets/sec)
+Current packetCount: 9671, Current throughput: 752.999925 (packets/sec), Cumulated throughput: 743.923003 (packets/sec)
+Current packetCount: 10425, Current throughput: 753.999925 (packets/sec), Cumulated throughput: 744.642783 (packets/sec)
+Current packetCount: 11170, Current throughput: 744.999926 (packets/sec), Cumulated throughput: 744.666592 (packets/sec)
+Current packetCount: 11897, Current throughput: 726.999927 (packets/sec), Cumulated throughput: 743.562426 (packets/sec)
+Current packetCount: 12656, Current throughput: 758.999924 (packets/sec), Cumulated throughput: 744.470514 (packets/sec)
+Current packetCount: 13398, Current throughput: 741.999926 (packets/sec), Cumulated throughput: 744.333259 (packets/sec)
+Current packetCount: 14136, Current throughput: 737.999926 (packets/sec), Cumulated throughput: 743.999926 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 14889
+Throughput: 744.450000
+Total collisions: 3880
+Total per-station collisions: 8947
+Total transmission attempt: 23837
+Mean packet delay: 29103
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 121978703
+====================
+====================
+Simulation Result:
+    Throughput:                         744.450000
+    Mean Packet Delay:                  29103
+    Transmission Collision Probability: 0.375341
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     15
+    CW:             32
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 989, Current throughput: 988.999901 (packets/sec), Cumulated throughput: 988.999901 (packets/sec)
+Current packetCount: 1979, Current throughput: 989.999901 (packets/sec), Cumulated throughput: 989.499901 (packets/sec)
+Current packetCount: 2978, Current throughput: 998.999900 (packets/sec), Cumulated throughput: 992.666567 (packets/sec)
+Current packetCount: 3971, Current throughput: 992.999901 (packets/sec), Cumulated throughput: 992.749901 (packets/sec)
+Current packetCount: 4969, Current throughput: 997.999900 (packets/sec), Cumulated throughput: 993.799901 (packets/sec)
+Current packetCount: 5965, Current throughput: 995.999900 (packets/sec), Cumulated throughput: 994.166567 (packets/sec)
+Current packetCount: 6957, Current throughput: 991.999901 (packets/sec), Cumulated throughput: 993.857043 (packets/sec)
+Current packetCount: 7942, Current throughput: 984.999902 (packets/sec), Cumulated throughput: 992.749901 (packets/sec)
+Current packetCount: 8939, Current throughput: 996.999900 (packets/sec), Cumulated throughput: 993.222123 (packets/sec)
+Current packetCount: 9940, Current throughput: 1000.999900 (packets/sec), Cumulated throughput: 993.999901 (packets/sec)
+Current packetCount: 10934, Current throughput: 993.999901 (packets/sec), Cumulated throughput: 993.999901 (packets/sec)
+Current packetCount: 11924, Current throughput: 989.999901 (packets/sec), Cumulated throughput: 993.666567 (packets/sec)
+Current packetCount: 12931, Current throughput: 1006.999899 (packets/sec), Cumulated throughput: 994.692208 (packets/sec)
+Current packetCount: 13923, Current throughput: 991.999901 (packets/sec), Cumulated throughput: 994.499901 (packets/sec)
+Current packetCount: 14936, Current throughput: 1012.999899 (packets/sec), Cumulated throughput: 995.733234 (packets/sec)
+Current packetCount: 15924, Current throughput: 987.999901 (packets/sec), Cumulated throughput: 995.249900 (packets/sec)
+Current packetCount: 16903, Current throughput: 978.999902 (packets/sec), Cumulated throughput: 994.294018 (packets/sec)
+Current packetCount: 17899, Current throughput: 995.999900 (packets/sec), Cumulated throughput: 994.388789 (packets/sec)
+Current packetCount: 18895, Current throughput: 995.999900 (packets/sec), Cumulated throughput: 994.473585 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 19899
+Throughput: 994.950000
+Total collisions: 16695
+Total per-station collisions: 62870
+Total transmission attempt: 82770
+Mean packet delay: 45565
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 163034758
+====================
+====================
+Simulation Result:
+    Throughput:                         994.950000
+    Mean Packet Delay:                  45565
+    Transmission Collision Probability: 0.759575
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     15
+    CW:             64
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 947, Current throughput: 946.999905 (packets/sec), Cumulated throughput: 946.999905 (packets/sec)
+Current packetCount: 1901, Current throughput: 953.999905 (packets/sec), Cumulated throughput: 950.499905 (packets/sec)
+Current packetCount: 2853, Current throughput: 951.999905 (packets/sec), Cumulated throughput: 950.999905 (packets/sec)
+Current packetCount: 3823, Current throughput: 969.999903 (packets/sec), Cumulated throughput: 955.749904 (packets/sec)
+Current packetCount: 4802, Current throughput: 978.999902 (packets/sec), Cumulated throughput: 960.399904 (packets/sec)
+Current packetCount: 5760, Current throughput: 957.999904 (packets/sec), Cumulated throughput: 959.999904 (packets/sec)
+Current packetCount: 6731, Current throughput: 970.999903 (packets/sec), Cumulated throughput: 961.571332 (packets/sec)
+Current packetCount: 7687, Current throughput: 955.999904 (packets/sec), Cumulated throughput: 960.874904 (packets/sec)
+Current packetCount: 8644, Current throughput: 956.999904 (packets/sec), Cumulated throughput: 960.444348 (packets/sec)
+Current packetCount: 9610, Current throughput: 965.999903 (packets/sec), Cumulated throughput: 960.999904 (packets/sec)
+Current packetCount: 10573, Current throughput: 962.999904 (packets/sec), Cumulated throughput: 961.181722 (packets/sec)
+Current packetCount: 11542, Current throughput: 968.999903 (packets/sec), Cumulated throughput: 961.833237 (packets/sec)
+Current packetCount: 12497, Current throughput: 954.999905 (packets/sec), Cumulated throughput: 961.307596 (packets/sec)
+Current packetCount: 13453, Current throughput: 955.999904 (packets/sec), Cumulated throughput: 960.928475 (packets/sec)
+Current packetCount: 14434, Current throughput: 980.999902 (packets/sec), Cumulated throughput: 962.266570 (packets/sec)
+Current packetCount: 15404, Current throughput: 969.999903 (packets/sec), Cumulated throughput: 962.749904 (packets/sec)
+Current packetCount: 16356, Current throughput: 951.999905 (packets/sec), Cumulated throughput: 962.117551 (packets/sec)
+Current packetCount: 17316, Current throughput: 959.999904 (packets/sec), Cumulated throughput: 961.999904 (packets/sec)
+Current packetCount: 18269, Current throughput: 952.999905 (packets/sec), Cumulated throughput: 961.526220 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 19225
+Throughput: 961.250000
+Total collisions: 13714
+Total per-station collisions: 42592
+Total transmission attempt: 61818
+Mean packet delay: 51313
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 157510810
+====================
+====================
+Simulation Result:
+    Throughput:                         961.250000
+    Mean Packet Delay:                  51313
+    Transmission Collision Probability: 0.688990
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     15
+    CW:             128
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 909, Current throughput: 908.999909 (packets/sec), Cumulated throughput: 908.999909 (packets/sec)
+Current packetCount: 1831, Current throughput: 921.999908 (packets/sec), Cumulated throughput: 915.499908 (packets/sec)
+Current packetCount: 2757, Current throughput: 925.999907 (packets/sec), Cumulated throughput: 918.999908 (packets/sec)
+Current packetCount: 3682, Current throughput: 924.999908 (packets/sec), Cumulated throughput: 920.499908 (packets/sec)
+Current packetCount: 4614, Current throughput: 931.999907 (packets/sec), Cumulated throughput: 922.799908 (packets/sec)
+Current packetCount: 5529, Current throughput: 914.999909 (packets/sec), Cumulated throughput: 921.499908 (packets/sec)
+Current packetCount: 6442, Current throughput: 912.999909 (packets/sec), Cumulated throughput: 920.285622 (packets/sec)
+Current packetCount: 7349, Current throughput: 906.999909 (packets/sec), Cumulated throughput: 918.624908 (packets/sec)
+Current packetCount: 8274, Current throughput: 924.999908 (packets/sec), Cumulated throughput: 919.333241 (packets/sec)
+Current packetCount: 9201, Current throughput: 926.999907 (packets/sec), Cumulated throughput: 920.099908 (packets/sec)
+Current packetCount: 10126, Current throughput: 924.999908 (packets/sec), Cumulated throughput: 920.545362 (packets/sec)
+Current packetCount: 11045, Current throughput: 918.999908 (packets/sec), Cumulated throughput: 920.416575 (packets/sec)
+Current packetCount: 11970, Current throughput: 924.999908 (packets/sec), Cumulated throughput: 920.769139 (packets/sec)
+Current packetCount: 12899, Current throughput: 928.999907 (packets/sec), Cumulated throughput: 921.357051 (packets/sec)
+Current packetCount: 13814, Current throughput: 914.999909 (packets/sec), Cumulated throughput: 920.933241 (packets/sec)
+Current packetCount: 14725, Current throughput: 910.999909 (packets/sec), Cumulated throughput: 920.312408 (packets/sec)
+Current packetCount: 15639, Current throughput: 913.999909 (packets/sec), Cumulated throughput: 919.941084 (packets/sec)
+Current packetCount: 16557, Current throughput: 917.999908 (packets/sec), Cumulated throughput: 919.833241 (packets/sec)
+Current packetCount: 17477, Current throughput: 919.999908 (packets/sec), Cumulated throughput: 919.842013 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 18388
+Throughput: 919.400000
+Total collisions: 9994
+Total per-station collisions: 26593
+Total transmission attempt: 44981
+Mean packet delay: 59015
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 150644490
+====================
+====================
+Simulation Result:
+    Throughput:                         919.400000
+    Mean Packet Delay:                  59015
+    Transmission Collision Probability: 0.591205
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     20
+    CW:             32
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 1061, Current throughput: 1060.999894 (packets/sec), Cumulated throughput: 1060.999894 (packets/sec)
+Current packetCount: 2122, Current throughput: 1060.999894 (packets/sec), Cumulated throughput: 1060.999894 (packets/sec)
+Current packetCount: 3188, Current throughput: 1065.999893 (packets/sec), Cumulated throughput: 1062.666560 (packets/sec)
+Current packetCount: 4250, Current throughput: 1061.999894 (packets/sec), Cumulated throughput: 1062.499894 (packets/sec)
+Current packetCount: 5312, Current throughput: 1061.999894 (packets/sec), Cumulated throughput: 1062.399894 (packets/sec)
+Current packetCount: 6376, Current throughput: 1063.999894 (packets/sec), Cumulated throughput: 1062.666560 (packets/sec)
+Current packetCount: 7438, Current throughput: 1061.999894 (packets/sec), Cumulated throughput: 1062.571322 (packets/sec)
+Current packetCount: 8505, Current throughput: 1066.999893 (packets/sec), Cumulated throughput: 1063.124894 (packets/sec)
+Current packetCount: 9568, Current throughput: 1062.999894 (packets/sec), Cumulated throughput: 1063.111005 (packets/sec)
+Current packetCount: 10637, Current throughput: 1068.999893 (packets/sec), Cumulated throughput: 1063.699894 (packets/sec)
+Current packetCount: 11699, Current throughput: 1061.999894 (packets/sec), Cumulated throughput: 1063.545348 (packets/sec)
+Current packetCount: 12760, Current throughput: 1060.999894 (packets/sec), Cumulated throughput: 1063.333227 (packets/sec)
+Current packetCount: 13817, Current throughput: 1056.999894 (packets/sec), Cumulated throughput: 1062.846048 (packets/sec)
+Current packetCount: 14881, Current throughput: 1063.999894 (packets/sec), Cumulated throughput: 1062.928465 (packets/sec)
+Current packetCount: 15943, Current throughput: 1061.999894 (packets/sec), Cumulated throughput: 1062.866560 (packets/sec)
+Current packetCount: 16999, Current throughput: 1055.999894 (packets/sec), Cumulated throughput: 1062.437394 (packets/sec)
+Current packetCount: 18064, Current throughput: 1064.999894 (packets/sec), Cumulated throughput: 1062.588129 (packets/sec)
+Current packetCount: 19124, Current throughput: 1059.999894 (packets/sec), Cumulated throughput: 1062.444338 (packets/sec)
+Current packetCount: 20189, Current throughput: 1064.999894 (packets/sec), Cumulated throughput: 1062.578841 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 21254
+Throughput: 1062.700000
+Total collisions: 22609
+Total per-station collisions: 134119
+Total transmission attempt: 155374
+Mean packet delay: 84163
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 174137403
+====================
+====================
+Simulation Result:
+    Throughput:                         1062.700000
+    Mean Packet Delay:                  84163
+    Transmission Collision Probability: 0.863201
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     20
+    CW:             64
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 1026, Current throughput: 1025.999897 (packets/sec), Cumulated throughput: 1025.999897 (packets/sec)
+Current packetCount: 2052, Current throughput: 1025.999897 (packets/sec), Cumulated throughput: 1025.999897 (packets/sec)
+Current packetCount: 3076, Current throughput: 1023.999898 (packets/sec), Cumulated throughput: 1025.333231 (packets/sec)
+Current packetCount: 4101, Current throughput: 1024.999898 (packets/sec), Cumulated throughput: 1025.249897 (packets/sec)
+Current packetCount: 5126, Current throughput: 1024.999898 (packets/sec), Cumulated throughput: 1025.199897 (packets/sec)
+Current packetCount: 6154, Current throughput: 1027.999897 (packets/sec), Cumulated throughput: 1025.666564 (packets/sec)
+Current packetCount: 7179, Current throughput: 1024.999898 (packets/sec), Cumulated throughput: 1025.571326 (packets/sec)
+Current packetCount: 8206, Current throughput: 1026.999897 (packets/sec), Cumulated throughput: 1025.749897 (packets/sec)
+Current packetCount: 9231, Current throughput: 1024.999898 (packets/sec), Cumulated throughput: 1025.666564 (packets/sec)
+Current packetCount: 10260, Current throughput: 1028.999897 (packets/sec), Cumulated throughput: 1025.999897 (packets/sec)
+Current packetCount: 11284, Current throughput: 1023.999898 (packets/sec), Cumulated throughput: 1025.818079 (packets/sec)
+Current packetCount: 12299, Current throughput: 1014.999899 (packets/sec), Cumulated throughput: 1024.916564 (packets/sec)
+Current packetCount: 13326, Current throughput: 1026.999897 (packets/sec), Cumulated throughput: 1025.076821 (packets/sec)
+Current packetCount: 14348, Current throughput: 1021.999898 (packets/sec), Cumulated throughput: 1024.857040 (packets/sec)
+Current packetCount: 15379, Current throughput: 1030.999897 (packets/sec), Cumulated throughput: 1025.266564 (packets/sec)
+Current packetCount: 16409, Current throughput: 1029.999897 (packets/sec), Cumulated throughput: 1025.562397 (packets/sec)
+Current packetCount: 17441, Current throughput: 1031.999897 (packets/sec), Cumulated throughput: 1025.941074 (packets/sec)
+Current packetCount: 18464, Current throughput: 1022.999898 (packets/sec), Cumulated throughput: 1025.777675 (packets/sec)
+Current packetCount: 19494, Current throughput: 1029.999897 (packets/sec), Cumulated throughput: 1025.999897 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 20523
+Throughput: 1026.150000
+Total collisions: 19940
+Total per-station collisions: 86114
+Total transmission attempt: 106638
+Mean packet delay: 90785
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 168148924
+====================
+====================
+Simulation Result:
+    Throughput:                         1026.150000
+    Mean Packet Delay:                  90785
+    Transmission Collision Probability: 0.807536
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     20
+    CW:             128
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 977, Current throughput: 976.999902 (packets/sec), Cumulated throughput: 976.999902 (packets/sec)
+Current packetCount: 1946, Current throughput: 968.999903 (packets/sec), Cumulated throughput: 972.999903 (packets/sec)
+Current packetCount: 2900, Current throughput: 953.999905 (packets/sec), Cumulated throughput: 966.666570 (packets/sec)
+Current packetCount: 3872, Current throughput: 971.999903 (packets/sec), Cumulated throughput: 967.999903 (packets/sec)
+Current packetCount: 4838, Current throughput: 965.999903 (packets/sec), Cumulated throughput: 967.599903 (packets/sec)
+Current packetCount: 5812, Current throughput: 973.999903 (packets/sec), Cumulated throughput: 968.666570 (packets/sec)
+Current packetCount: 6780, Current throughput: 967.999903 (packets/sec), Cumulated throughput: 968.571332 (packets/sec)
+Current packetCount: 7754, Current throughput: 973.999903 (packets/sec), Cumulated throughput: 969.249903 (packets/sec)
+Current packetCount: 8720, Current throughput: 965.999903 (packets/sec), Cumulated throughput: 968.888792 (packets/sec)
+Current packetCount: 9694, Current throughput: 973.999903 (packets/sec), Cumulated throughput: 969.399903 (packets/sec)
+Current packetCount: 10663, Current throughput: 968.999903 (packets/sec), Cumulated throughput: 969.363539 (packets/sec)
+Current packetCount: 11640, Current throughput: 976.999902 (packets/sec), Cumulated throughput: 969.999903 (packets/sec)
+Current packetCount: 12610, Current throughput: 969.999903 (packets/sec), Cumulated throughput: 969.999903 (packets/sec)
+Current packetCount: 13580, Current throughput: 969.999903 (packets/sec), Cumulated throughput: 969.999903 (packets/sec)
+Current packetCount: 14550, Current throughput: 969.999903 (packets/sec), Cumulated throughput: 969.999903 (packets/sec)
+Current packetCount: 15508, Current throughput: 957.999904 (packets/sec), Cumulated throughput: 969.249903 (packets/sec)
+Current packetCount: 16482, Current throughput: 973.999903 (packets/sec), Cumulated throughput: 969.529315 (packets/sec)
+Current packetCount: 17458, Current throughput: 975.999902 (packets/sec), Cumulated throughput: 969.888792 (packets/sec)
+Current packetCount: 18431, Current throughput: 972.999903 (packets/sec), Cumulated throughput: 970.052535 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 19400
+Throughput: 970.000000
+Total collisions: 15661
+Total per-station collisions: 51783
+Total transmission attempt: 71184
+Mean packet delay: 102833
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 158943253
+====================
+====================
+Simulation Result:
+    Throughput:                         970.000000
+    Mean Packet Delay:                  102833
+    Transmission Collision Probability: 0.727453
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     25
+    CW:             32
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 1096, Current throughput: 1095.999890 (packets/sec), Cumulated throughput: 1095.999890 (packets/sec)
+Current packetCount: 2194, Current throughput: 1097.999890 (packets/sec), Cumulated throughput: 1096.999890 (packets/sec)
+Current packetCount: 3288, Current throughput: 1093.999891 (packets/sec), Cumulated throughput: 1095.999890 (packets/sec)
+Current packetCount: 4383, Current throughput: 1094.999891 (packets/sec), Cumulated throughput: 1095.749890 (packets/sec)
+Current packetCount: 5477, Current throughput: 1093.999891 (packets/sec), Cumulated throughput: 1095.399890 (packets/sec)
+Current packetCount: 6572, Current throughput: 1094.999891 (packets/sec), Cumulated throughput: 1095.333224 (packets/sec)
+Current packetCount: 7663, Current throughput: 1090.999891 (packets/sec), Cumulated throughput: 1094.714176 (packets/sec)
+Current packetCount: 8759, Current throughput: 1095.999890 (packets/sec), Cumulated throughput: 1094.874891 (packets/sec)
+Current packetCount: 9856, Current throughput: 1096.999890 (packets/sec), Cumulated throughput: 1095.111002 (packets/sec)
+Current packetCount: 10950, Current throughput: 1093.999891 (packets/sec), Cumulated throughput: 1094.999891 (packets/sec)
+Current packetCount: 12043, Current throughput: 1092.999891 (packets/sec), Cumulated throughput: 1094.818072 (packets/sec)
+Current packetCount: 13140, Current throughput: 1096.999890 (packets/sec), Cumulated throughput: 1094.999891 (packets/sec)
+Current packetCount: 14238, Current throughput: 1097.999890 (packets/sec), Cumulated throughput: 1095.230660 (packets/sec)
+Current packetCount: 15332, Current throughput: 1093.999891 (packets/sec), Cumulated throughput: 1095.142748 (packets/sec)
+Current packetCount: 16424, Current throughput: 1091.999891 (packets/sec), Cumulated throughput: 1094.933224 (packets/sec)
+Current packetCount: 17522, Current throughput: 1097.999890 (packets/sec), Cumulated throughput: 1095.124890 (packets/sec)
+Current packetCount: 18612, Current throughput: 1089.999891 (packets/sec), Cumulated throughput: 1094.823420 (packets/sec)
+Current packetCount: 19702, Current throughput: 1089.999891 (packets/sec), Cumulated throughput: 1094.555446 (packets/sec)
+Current packetCount: 20796, Current throughput: 1093.999891 (packets/sec), Cumulated throughput: 1094.526206 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 21893
+Throughput: 1094.650000
+Total collisions: 24843
+Total per-station collisions: 210115
+Total transmission attempt: 232009
+Mean packet delay: 124714
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 179375542
+====================
+====================
+Simulation Result:
+    Throughput:                         1094.650000
+    Mean Packet Delay:                  124714
+    Transmission Collision Probability: 0.905633
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     25
+    CW:             64
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 1066, Current throughput: 1065.999893 (packets/sec), Cumulated throughput: 1065.999893 (packets/sec)
+Current packetCount: 2135, Current throughput: 1068.999893 (packets/sec), Cumulated throughput: 1067.499893 (packets/sec)
+Current packetCount: 3205, Current throughput: 1069.999893 (packets/sec), Cumulated throughput: 1068.333227 (packets/sec)
+Current packetCount: 4271, Current throughput: 1065.999893 (packets/sec), Cumulated throughput: 1067.749893 (packets/sec)
+Current packetCount: 5336, Current throughput: 1064.999894 (packets/sec), Cumulated throughput: 1067.199893 (packets/sec)
+Current packetCount: 6409, Current throughput: 1072.999893 (packets/sec), Cumulated throughput: 1068.166560 (packets/sec)
+Current packetCount: 7477, Current throughput: 1067.999893 (packets/sec), Cumulated throughput: 1068.142750 (packets/sec)
+Current packetCount: 8546, Current throughput: 1068.999893 (packets/sec), Cumulated throughput: 1068.249893 (packets/sec)
+Current packetCount: 9615, Current throughput: 1068.999893 (packets/sec), Cumulated throughput: 1068.333227 (packets/sec)
+Current packetCount: 10686, Current throughput: 1070.999893 (packets/sec), Cumulated throughput: 1068.599893 (packets/sec)
+Current packetCount: 11755, Current throughput: 1068.999893 (packets/sec), Cumulated throughput: 1068.636257 (packets/sec)
+Current packetCount: 12821, Current throughput: 1065.999893 (packets/sec), Cumulated throughput: 1068.416560 (packets/sec)
+Current packetCount: 13889, Current throughput: 1067.999893 (packets/sec), Cumulated throughput: 1068.384509 (packets/sec)
+Current packetCount: 14962, Current throughput: 1072.999893 (packets/sec), Cumulated throughput: 1068.714179 (packets/sec)
+Current packetCount: 16022, Current throughput: 1059.999894 (packets/sec), Cumulated throughput: 1068.133227 (packets/sec)
+Current packetCount: 17088, Current throughput: 1065.999893 (packets/sec), Cumulated throughput: 1067.999893 (packets/sec)
+Current packetCount: 18153, Current throughput: 1064.999894 (packets/sec), Cumulated throughput: 1067.823423 (packets/sec)
+Current packetCount: 19221, Current throughput: 1067.999893 (packets/sec), Cumulated throughput: 1067.833227 (packets/sec)
+Current packetCount: 20294, Current throughput: 1072.999893 (packets/sec), Cumulated throughput: 1068.105156 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 21367
+Throughput: 1068.350000
+Total collisions: 22046
+Total per-station collisions: 130982
+Total transmission attempt: 152350
+Mean packet delay: 130059
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 175066311
+====================
+====================
+Simulation Result:
+    Throughput:                         1068.350000
+    Mean Packet Delay:                  130059
+    Transmission Collision Probability: 0.859744
+====================
+====================
+Simulation Info:
+    Scheme:         1-persistent CSMA/CD + Uniform-distribution backoff
+    Node Count:     25
+    CW:             128
+    Execution Time: 20 (sec)
+====================
+Now starting simulation...
+
+Current packetCount: 1007, Current throughput: 1006.999899 (packets/sec), Cumulated throughput: 1006.999899 (packets/sec)
+Current packetCount: 2013, Current throughput: 1005.999899 (packets/sec), Cumulated throughput: 1006.499899 (packets/sec)
+Current packetCount: 3024, Current throughput: 1010.999899 (packets/sec), Cumulated throughput: 1007.999899 (packets/sec)
+Current packetCount: 4026, Current throughput: 1001.999900 (packets/sec), Cumulated throughput: 1006.499899 (packets/sec)
+Current packetCount: 5027, Current throughput: 1000.999900 (packets/sec), Cumulated throughput: 1005.399899 (packets/sec)
+Current packetCount: 6031, Current throughput: 1003.999900 (packets/sec), Cumulated throughput: 1005.166566 (packets/sec)
+Current packetCount: 7047, Current throughput: 1015.999898 (packets/sec), Cumulated throughput: 1006.714185 (packets/sec)
+Current packetCount: 8060, Current throughput: 1012.999899 (packets/sec), Cumulated throughput: 1007.499899 (packets/sec)
+Current packetCount: 9068, Current throughput: 1007.999899 (packets/sec), Cumulated throughput: 1007.555455 (packets/sec)
+Current packetCount: 10064, Current throughput: 995.999900 (packets/sec), Cumulated throughput: 1006.399899 (packets/sec)
+Current packetCount: 11065, Current throughput: 1000.999900 (packets/sec), Cumulated throughput: 1005.908990 (packets/sec)
+Current packetCount: 12067, Current throughput: 1001.999900 (packets/sec), Cumulated throughput: 1005.583233 (packets/sec)
+Current packetCount: 13069, Current throughput: 1001.999900 (packets/sec), Cumulated throughput: 1005.307592 (packets/sec)
+Current packetCount: 14078, Current throughput: 1008.999899 (packets/sec), Cumulated throughput: 1005.571328 (packets/sec)
+Current packetCount: 15084, Current throughput: 1005.999899 (packets/sec), Cumulated throughput: 1005.599899 (packets/sec)
+Current packetCount: 16093, Current throughput: 1008.999899 (packets/sec), Cumulated throughput: 1005.812399 (packets/sec)
+Current packetCount: 17097, Current throughput: 1003.999900 (packets/sec), Cumulated throughput: 1005.705782 (packets/sec)
+Current packetCount: 18103, Current throughput: 1005.999899 (packets/sec), Cumulated throughput: 1005.722122 (packets/sec)
+Current packetCount: 19106, Current throughput: 1002.999900 (packets/sec), Cumulated throughput: 1005.578847 (packets/sec)
+====================
+End of simulation
+Total packets transmitted: 20125
+Throughput: 1006.250000
+Total collisions: 18783
+Total per-station collisions: 77704
+Total transmission attempt: 97830
+Mean packet delay: 145346
+Total Ticks: 200000000
+Total idle ticks: 0
+Total busy ticks: 164889308
+====================
+====================
+Simulation Result:
+    Throughput:                         1006.250000
+    Mean Packet Delay:                  145346
+    Transmission Collision Probability: 0.794276
+====================
+====================
+End of automatic test.
